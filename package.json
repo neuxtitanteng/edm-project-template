@@ -1,0 +1,24 @@
+{
+  "name": "edm-project-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mjml": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx mjml index.mjml -o index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuxtitanteng/edm-project-template.git"
+  },
+  "author": "neux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neuxtitanteng/edm-project-template/issues"
+  },
+  "homepage": "https://github.com/neuxtitanteng/edm-project-template#readme"
+}
